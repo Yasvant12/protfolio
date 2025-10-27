@@ -15,7 +15,7 @@ const Hero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-5 animate-fadeInUp animate-stagger-4">
             <a 
-              href="/Yasvant_Kumar_CV.pdf" 
+              href="./../public/Yasvant_Resume.pdf" 
               download
               className="btn-gradient text-white px-8 py-4 rounded-xl font-semibold transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(139,92,246,0.4)] shadow-[0_8px_32px_rgba(139,92,246,0.3)] animate-glow"
             >
