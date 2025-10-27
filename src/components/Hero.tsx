@@ -11,7 +11,7 @@ const Hero = () => {
           </h1>
           <p className="text-xl text-gray-400 max-w-lg animate-fadeInUp animate-stagger-3">
             Passionate full-stack developer creating innovative solutions with cutting-edge technologies. 
-            Specialized in React, Node.js, and cloud architecture.
+            Specialized in React, Spring Boot, and cloud architecture.
           </p>
           <div className="flex flex-col sm:flex-row gap-5 animate-fadeInUp animate-stagger-4">
             <a 
